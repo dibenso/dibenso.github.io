@@ -11,7 +11,7 @@ email: dillon.benson93@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Writing code is fun!
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "http://dibenso.github.io/" # the base hostname & protocol for your site
 twitter_username:
 github_username:  dibenso
 
